@@ -2,7 +2,7 @@
 
 **MCA Graduate | Open to Job Opportunities**
 
-I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in development with Python, Java, and JavaScript. Always eager to learn and grow!
+I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in development with Python, Java, and JavaScript. Always eager to learn and grow in the tech industry.
 
 ---
 
@@ -35,37 +35,39 @@ I'm a recent MCA graduate passionate about building web applications and solving
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiswaryakv2224-dev&show_icons=true&theme=radical)
+### 🌍 1. Group Travel and Itinerary Recommendation System
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiswaryakv2224-dev&layout=compact&theme=radical)
+> **Smart travel planning made collaborative and personalized**
 
----
+A cutting-edge web application that revolutionizes group travel planning by intelligently recommending personalized itineraries. Using advanced algorithms, the system finds the perfect balance between individual preferences and group consensus.
 
-## 🎯 Featured Projects
+**🛠️ Tech Stack:** 
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 1. Group Travel and Itinerary Recommendation System
-A web application that helps groups plan their travel itineraries efficiently. The system applies collaborative and group approximation constraint satisfaction algorithms to generate personalized travel recommendations that satisfy the preferences of all group members.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Python, Flask
-
-**Key Features:**
-- Collaborative filtering for group preferences
-- Constraint satisfaction algorithms for itinerary optimization
-- Group approximation techniques for consensus-based recommendations
+**✨ Key Features:**
+- 🤖 Collaborative filtering for group preference analysis
+- ⚙️ Constraint satisfaction algorithms for intelligent itinerary optimization
+- 🎯 Group approximation techniques for consensus-based recommendations
+- 📍 Personalized travel suggestions based on collective interests
 
 ---
 
-### 2. Web-Based Payroll Management System
-A comprehensive payroll management solution designed to streamline employee salary processing and management. The system utilizes Naive Bayes machine learning algorithm to predict next month's salary based on historical data and employee metrics.
+### 💰 2. Web-Based Payroll Management System
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Python, Flask, Naive Bayes
+> **Streamline HR operations with intelligent salary prediction**
 
-**Key Features:**
-- Employee salary management and processing
-- Next month salary prediction using Naive Bayes algorithm
-- Automated payroll calculations and reporting
+A comprehensive and user-friendly payroll management solution that simplifies employee salary processing and management. Powered by machine learning, it predicts future salary trends and automates complex payroll calculations.
+
+**🛠️ Tech Stack:** 
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Naive Bayes](https://img.shields.io/badge/ML-Naive%20Bayes-blue?style=flat-square)
+
+**✨ Key Features:**
+- 👥 Comprehensive employee salary management and processing
+- 🔮 Next month salary prediction using Naive Bayes machine learning algorithm
+- 🤖 Automated payroll calculations and intelligent reporting
+- 📊 Real-time salary analytics and insights
 
 ---
 
