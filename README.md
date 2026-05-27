@@ -2,7 +2,7 @@
 
 **MCA Graduate | Open to Job Opportunities**
 
-I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in development with Python, Java, and JavaScript. Always eager to learn and grow in the tech industry.
+I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in development with Python, Java, and JavaScript. Always eager to learn and contribute to innovative projects!
 
 ---
 
@@ -21,6 +21,9 @@ I'm a recent MCA graduate passionate about building web applications and solving
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=database&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Machine Learning & AI:**
+- ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-4B8BBE?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -41,10 +44,10 @@ I'm a recent MCA graduate passionate about building web applications and solving
 
 > **Smart travel planning made collaborative and personalized**
 
-A cutting-edge web application that revolutionizes group travel planning by intelligently recommending personalized itineraries. Using advanced algorithms, the system finds the perfect balance between individual preferences and group consensus.
+A cutting-edge web application that revolutionizes group travel planning by intelligently recommending personalized itineraries. Using advanced algorithms, the system finds the perfect balance between individual preferences and group harmony.
 
 **🛠️ Tech Stack:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white)
 
 **✨ Key Features:**
 - 🤖 Collaborative filtering for group preference analysis
@@ -61,7 +64,7 @@ A cutting-edge web application that revolutionizes group travel planning by inte
 A comprehensive and user-friendly payroll management solution that simplifies employee salary processing and management. Powered by machine learning, it predicts future salary trends and automates complex payroll calculations.
 
 **🛠️ Tech Stack:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Naive Bayes](https://img.shields.io/badge/ML-Naive%20Bayes-blue?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white) ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 **✨ Key Features:**
 - 👥 Comprehensive employee salary management and processing
