@@ -1,8 +1,8 @@
 # Hey, I'm Aiswarya K V! 👋
 
-**MCA Graduate | Full-Stack Developer | Open to Job Opportunities**
+**MCA Graduate | Open to Job Opportunities**
 
-I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in full-stack development with Python, Java, and JavaScript. Always eager to learn, collaborate, and contribute to meaningful projects.
+I'm a recent MCA graduate passionate about building web applications and solving real-world problems through code. I specialize in development with Python, Java, and JavaScript. Always eager to learn and grow!
 
 ---
 
@@ -27,7 +27,7 @@ I'm a recent MCA graduate passionate about building web applications and solving
 ## 🎓 About Me
 
 - 🎯 Recently completed my **Master of Computer Applications (MCA)**
-- 🔭 Skilled in **Full-Stack Web Development** with Python, Java & JavaScript
+- 🔭 Skilled in **Web Development** with Python, Java & JavaScript
 - 💼 **Actively seeking job opportunities** as a Developer (Entry-level/Junior)
 - 🚀 Passionate about building scalable applications and clean code
 - 📚 Quick learner with a strong foundation in software development
@@ -45,7 +45,27 @@ I'm a recent MCA graduate passionate about building web applications and solving
 
 ## 🎯 Featured Projects
 
-**Coming Soon** - Check back for my MCA projects and portfolio work!
+### 1. Group Travel and Itinerary Recommendation System
+A web application that helps groups plan their travel itineraries efficiently. The system applies collaborative and group approximation constraint satisfaction algorithms to generate personalized travel recommendations that satisfy the preferences of all group members.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Python, Flask
+
+**Key Features:**
+- Collaborative filtering for group preferences
+- Constraint satisfaction algorithms for itinerary optimization
+- Group approximation techniques for consensus-based recommendations
+
+---
+
+### 2. Web-Based Payroll Management System
+A comprehensive payroll management solution designed to streamline employee salary processing and management. The system utilizes Naive Bayes machine learning algorithm to predict next month's salary based on historical data and employee metrics.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Python, Flask, Naive Bayes
+
+**Key Features:**
+- Employee salary management and processing
+- Next month salary prediction using Naive Bayes algorithm
+- Automated payroll calculations and reporting
 
 ---
 
@@ -53,7 +73,7 @@ I'm a recent MCA graduate passionate about building web applications and solving
 
 🟢 **OPEN TO OPPORTUNITIES**
 - Entry-level / Junior Developer positions
-- Full-stack development roles
+- Development roles
 - Both remote and on-site positions welcome
 - Eager to learn and grow with the right team
 
@@ -61,8 +81,8 @@ I'm a recent MCA graduate passionate about building web applications and solving
 
 ## 📞 Let's Connect!
 
-- 💬 Open to discussions, collaborations, and opportunities
-- 📧 Reach out for project discussions or job inquiries
+- 📧 **Email:** aiswaryakv2224@gmail.com
+- 📱 **Phone:** 9567727016
 - 🌟 Explore my repositories to see what I've built!
 
 ---
